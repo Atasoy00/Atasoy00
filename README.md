@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ferhat Atasoy A.K.A. @Atasoy00
 - 👀 I’m interested in Embedded Software
-- 🌱 I’m currently learning OTA Bootloader
+- 🌱 I’m currently learning OTA lwip
 - 📫 You can reach me from atasoy9961@gmail.com
 
 <!---
