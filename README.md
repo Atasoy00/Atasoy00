@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ferhat Atasoy A.K.A. @Atasoy00
 - 👀 I’m interested in Embedded Software
-- 🌱 I’m currently learning lwip
+- 🌱 I’m currently learning CAN-BUS
 - 📫 You can reach me from atasoy9961@gmail.com
 
 <!---
